@@ -1,5 +1,5 @@
 
-# Módulo 6 — Pipeline ETL con Power Query y M
+# Módulo 6 - Pipeline ETL con Power Query y M
 
 **Curso:** Data Analytics — Coderhouse  
 **Proyecto:** TechStore | Pre-entrega 6  
